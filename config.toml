@@ -1,0 +1,85 @@
+theme = "hugo-theme-codex"
+
+# Override these settings with your own
+title = "María de los Ángeles Lasa"
+languageCode = "en-us"
+baseURL = "https://www.marialasa.com"
+copyright = "© {2020}"
+
+# Add your Disqus shortname here.
+# disqusShortname = ""
+
+# Add your Google Analytics identifier: UA-XXXXXXXX-X
+googleAnalytics = "UA-60536877-1"
+
+# Optional params
+[params]
+  # Follow the Hugo date/time format reference here:
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "Jan 2 2006"
+
+  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  email = "mailto:<ma.angeleslasa@yahoo.com>"
+  linkedin = "https://www.linkedin.com/in/marialasa/"
+  facebook = "https://facebook.com/maria.lasa"
+  twitter = "https://twitter.com/Condolasa"
+  github = "https://github.com/marialasa"
+  # gitlab = "https://gitlab.com/<your handle>"
+  # instagram = "https://instagram.com/<your handle>"
+
+  # youtube = "https://www.youtube.com/channel/<your channel>"
+
+  # Titles for your icons (shown as tooltips), and also their display order.
+  # Currently, these icons are supported:
+  #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconTitles = ["E-mail", "LinkedIn", "Facebook", "Twitter", "GitHub"]
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# Controls the navigation
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  title = "Blog"
+  url = "https://medium.com/condolasa"
+
+[[menu.main]]
+  identifier = "photos"
+  name = "Fotografía"
+  title = "Las últimas fronteras del socialismo"
+  url = "https://usinacultural.unvm.edu.ar/muestras/muestras-virtuales/las-ultimas-fronteras-del-socialismo/"
+
+[[menu.main]]
+  identifier = "press"
+  name = "Medios & Prensa"
+  title = "press"
+  url = "https://www.clippings.me/users/mlasa"
+
+[[menu.main]]
+  identifier = "podcast"
+  name = "Podcast"
+  title = "podcast"
+  url = "https://podcasts.apple.com/us/podcast/cosmonauta/id1476742387"
+
+[[menu.main]]
+  identifier = "cv"
+  name = "Résumé"
+  title = "CV"
+  url = "https://drive.google.com/file/d/10st0eKEGBmJEuPEUjA5Ci9OFUS7sRkqE/view?usp=sharing"
+
+  [[menu.main]]
+    identifier = "cv_academico"
+    name = "CV"
+    title = "cv_academico"
+    url = "https://drive.google.com/file/d/1izAcxdYfBu4_dlIrgxjSHpaEYIG92WKt/view?usp=sharing"
