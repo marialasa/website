@@ -19,14 +19,13 @@ googleAnalytics = "UA-60536877-1"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  email = "mailto:<ma.angeleslasa@yahoo.com>"
+  email = "mailto:ma.angeleslasa@yahoo.com"
   linkedin = "https://www.linkedin.com/in/marialasa/"
   facebook = "https://facebook.com/maria.lasa"
   twitter = "https://twitter.com/Condolasa"
   github = "https://github.com/marialasa"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
-
   # youtube = "https://www.youtube.com/channel/<your channel>"
 
   # Titles for your icons (shown as tooltips), and also their display order.
