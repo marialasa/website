@@ -74,7 +74,7 @@ googleAnalytics = "UA-60536877-1"
 
 [[menu.main]]
   identifier = "cv"
-  name = "Résumé"
+  name = "CV Pro"
   title = "CV"
   url = "https://drive.google.com/file/d/10st0eKEGBmJEuPEUjA5Ci9OFUS7sRkqE/view?usp=sharing"
 
