@@ -62,7 +62,7 @@ googleAnalytics = "UA-60536877-1"
 
 [[menu.main]]
   identifier = "press"
-  name = "Medios & Prensa"
+  name = "Prensa"
   title = "press"
   url = "https://www.clippings.me/users/mlasa"
 
