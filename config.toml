@@ -85,12 +85,6 @@ googleAnalytics = "UA-60536877-1"
 
 [[menu.main]]
   identifier = "tedx"
-  name = "TEDxUCC"
+  name = "TEDx"
   title = "tedx1"
-  url = "https://www.youtube.com/watch?v=DnXO4vuB9bU"
-
-[[menu.main]]
-  identifier = "tedxrecoleta"
-  name = "TEDxRecoleta"
-  title = "tedx2"
-  url = "https://www.youtube.com/watch?v=aUp86rzTjew"
+  url = "https://www.youtube.com/watch?v=DnXO4vuB9bU&list=PLsNzMHw-pjVlcjAc7sN9ERPyJEvx0_th_"
