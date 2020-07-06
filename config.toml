@@ -88,3 +88,9 @@ googleAnalytics = "UA-60536877-1"
   name = "TEDxUCC"
   title = "tedx1"
   url = "https://www.youtube.com/watch?v=DnXO4vuB9bU"
+
+[[menu.main]]
+  identifier = "tedxrecoleta"
+  name = "TEDxRecoleta"
+  title = "tedx2"
+  url = "https://www.youtube.com/watch?v=aUp86rzTjew"
