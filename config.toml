@@ -82,9 +82,3 @@ googleAnalytics = "UA-60536877-1"
   name = "CV"
   title = "cv_academico"
   url = "https://drive.google.com/file/d/1izAcxdYfBu4_dlIrgxjSHpaEYIG92WKt/view?usp=sharing"
-
-[[menu.main]]
-  identifier = "mov
-  name = "MOV"
-  title = "mov"
-  url = "https://www.movilizatorio.org/maria-de-los-angeles-lasa"
