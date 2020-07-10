@@ -75,19 +75,19 @@ googleAnalytics = "UA-60536877-1"
   identifier = "cv"
   name = "CV Pro"
   title = "CV"
-  url = "https://drive.google.com/file/d/10st0eKEGBmJEuPEUjA5Ci9OFUS7sRkqE/view?usp=sharing"
+  url = "https://marialasa.github.io/website/CV%20Lasa%20Profesional.pdf"
 
 [[menu.main]]
   identifier = "cv_academico"
   name = "CV"
   title = "cv_academico"
-  url = "https://drive.google.com/file/d/1izAcxdYfBu4_dlIrgxjSHpaEYIG92WKt/view?usp=sharing"
+  url = "https://marialasa.github.io/website/CV%20Lasa%20Acad%C3%A9mico.pdf"
   
 [[menu.main]]
   identifier = "cv_english"
   name = "CV EN"
   title = "cv_english"
-  url = "https://drive.google.com/file/d/1MgCqu56Ak686TyFH2xfRzoqJzofMAEUj/view?usp=sharing"
+  url = "https://marialasa.github.io/website/CV%20Lasa%20English.pdf"
 
 [[menu.main]]
   identifier = "tedx"
