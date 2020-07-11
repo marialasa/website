@@ -81,7 +81,7 @@ googleAnalytics = "UA-60536877-1"
   identifier = "cv_academico"
   name = "CV"
   title = "cv_academico"
-  url = "https://marialasa.github.io/website/CV%20Lasa%20Acade%CC%81mico.pdf"
+  url = "https://marialasa.github.io/website/CV%20Lasa%20Académico.pdf"
   
 [[menu.main]]
   identifier = "cv_english"
