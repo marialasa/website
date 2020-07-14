@@ -1,5 +1,5 @@
 ---
 heading: "María Lasa, Ph.D"
-handle: "Cooperación internacional, políticas públicas & datos"
+handle: "Cooperación Internacional, Políticas Públicas & Datos"
 subheading: "👩🏻‍💻 ¡Estemos en contacto!"
 ---
