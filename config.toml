@@ -73,7 +73,7 @@ googleAnalytics = "UA-60536877-1"
 
 [[menu.main]]
   identifier = "cv"
-  name = "CV Pro"
+  name = "CV ES"
   title = "CV"
   url = "https://marialasa.github.io/website/CV%20Lasa%20Profesional.pdf"
 
