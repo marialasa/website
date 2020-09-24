@@ -70,24 +70,12 @@ googleAnalytics = "UA-60536877-1"
   name = "Podcast"
   title = "podcast"
   url = "https://podcasts.apple.com/us/podcast/cosmonauta/id1476742387"
-
-[[menu.main]]
-  identifier = "cv"
-  name = "CV ES"
-  title = "CV"
-  url = "https://marialasa.github.io/website/CV%20Lasa%20Profesional.pdf"
-
-[[menu.main]]
-  identifier = "cv_academico"
-  name = "CV"
-  title = "cv_academico"
-  url = "https://marialasa.github.io/website/CV%20Lasa%20Académico.pdf"
   
 [[menu.main]]
-  identifier = "cv_english"
-  name = "CV EN"
-  title = "cv_english"
-  url = "https://marialasa.github.io/website/CV%20Lasa%20English.pdf"
+  identifier = "resume"
+  name = "Résumé"
+  title = "resume"
+  url = "https://marialasa.github.io/website/resume.pdf"
 
 [[menu.main]]
   identifier = "tedx"
