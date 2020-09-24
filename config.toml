@@ -75,7 +75,7 @@ googleAnalytics = "UA-60536877-1"
   identifier = "resume"
   name = "Résumé"
   title = "resume"
-  url = "https://marialasa.github.io/website/resume.pdf"
+  url = "https://marialasa.github.io/website/Resume.pdf"
 
 [[menu.main]]
   identifier = "tedx"
