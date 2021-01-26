@@ -1,5 +1,5 @@
 ---
 heading: "María Lasa, Ph.D"
-handle: "Cooperación · Public Policy · Datos · Civic Tech"
+handle: "Public Policy · Métodos · Datos"
 subheading: "👩🏻‍💻 ¡Estemos en contacto!"
 ---
