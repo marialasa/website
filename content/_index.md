@@ -1,5 +1,5 @@
 ---
 heading: "María Lasa, Ph.D"
-handle: "Public Policy · Métodos · Datos"
+handle: "Políticas públicas · Métodos · Datos"
 subheading: "👩🏻‍💻 ¡Estemos en contacto!"
 ---
