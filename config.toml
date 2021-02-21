@@ -1,4 +1,4 @@
-baseURL = "http://marialasa.com/"
+baseURL = "https://marialasa.com/"
 languageCode = "en-us"
 title = "María Lasa"
 theme = "minimal"
@@ -7,17 +7,17 @@ googleAnalytics = "UA-60536877-1"
 [params]
     author = "María de los Ángeles Lasa"
     description = "< políticas públicas, métodos & datos >"
-    githubUsername = "marialasa"
+    githubUsername = ""
     accent = "#1da1f2"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
-    highlight = false
+    highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
-        url = "http://marialasa.com"
+        url = "https://marialasa.com"
         name = "Home"
         weight = 1
 
