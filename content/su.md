@@ -1,6 +1,6 @@
 ---
 title: .SU
-description: marialasa.su
+description: .sovietunion
 ---
 
 ![.SU](https://imgix.bustle.com/inverse/6d/96/a4/65/3859/4620/9175/318bca9f9468/the-flag-of-the-soviet-union.jpeg)
