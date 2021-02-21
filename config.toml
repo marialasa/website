@@ -1,0 +1,86 @@
+baseURL = "http://marialasa.com/"
+languageCode = "en-us"
+title = "María Lasa"
+theme = "minimal"
+googleAnalytics = "UA-60536877-1"
+
+[params]
+    author = "María de los Ángeles Lasa"
+    description = "< políticas públicas, métodos & datos >"
+    githubUsername = "marialasa"
+    accent = "#1da1f2"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = false
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+        url = "http://marialasa.com"
+        name = "Home"
+        weight = 1
+
+[[menu.main]]
+    url = "https://marialasa.github.io/website/Resume.pdf"
+    name = "Sobre mí"
+    weight = 1
+
+[[menu.main]]
+    url = "https://marialasa.github.io/website/Portfolio.pdf"
+    name = "Portfolio"
+    weight = 2
+
+[[menu.main]]
+    url = "https://www.clippings.me/users/mlasa"
+    name = "Prensa"
+    weight = 3
+
+[[menu.main]]
+    url = "https://medium.com/condolasa"
+    name = "Blog"
+    weight = 4
+
+[[menu.main]]
+    url = "https://usinacultural.unvm.edu.ar/muestras/muestras-virtuales/las-ultimas-fronteras-del-socialismo/"
+    name = "Fotografía"
+    weight = 5
+
+[[menu.main]]
+    url = "https://www.youtube.com/watch?v=DnXO4vuB9bU&list=PLsNzMHw-pjVlcjAc7sN9ERPyJEvx0_th_"
+    name = "TEDx"
+    weight = 6
+
+[[menu.main]]
+    url = "/su/"
+    name = ".SU"
+    weight = 7
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:ma.angeleslasa@gmail.com"
+    name = "fas fa-envelope"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/marialasa/"
+    name = "fab fa-github"
+    weight = 5
+
+[[menu.icon]]
+    url = "https://twitter.com/Condolasa/"
+    name = "fab fa-twitter"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/marialasa/"
+    name = "fab fa-linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.facebook.com/maria.lasa/"
+    name = "fab fa-facebook-square"
+    weight = 3
