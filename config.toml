@@ -17,11 +17,6 @@ googleAnalytics = "UA-60536877-1"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
-        url = "http://marialasa.com"
-        name = "Home"
-        weight = 1
-
-[[menu.main]]
     url = "https://marialasa.github.io/website/Portfolio.pdf"
     name = "Portfolio"
     weight = 1
