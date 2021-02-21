@@ -1,7 +1,7 @@
 baseURL = "http://marialasa.com/"
 languageCode = "en-us"
 title = "María Lasa"
-theme = "Minimal"
+theme = "minimal"
 googleAnalytics = "UA-60536877-1"
 
 [params]
