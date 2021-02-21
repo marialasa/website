@@ -7,7 +7,7 @@ googleAnalytics = "UA-60536877-1"
 [params]
     author = "María de los Ángeles Lasa"
     description = "políticas públicas, métodos & datos"
-    githubUsername = "marialasa"
+    githubUsername = ""
     accent = "#1da1f2"
     showBorder = true
     backgroundColor = "white"
