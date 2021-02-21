@@ -12,7 +12,7 @@ googleAnalytics = "UA-60536877-1"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
-    highlight = false
+    highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
@@ -22,39 +22,34 @@ googleAnalytics = "UA-60536877-1"
         weight = 1
 
 [[menu.main]]
-    url = "https://marialasa.github.io/website/Resume.pdf"
-    name = "Sobre mí"
-    weight = 1
-
-[[menu.main]]
     url = "https://marialasa.github.io/website/Portfolio.pdf"
     name = "Portfolio"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     url = "https://www.clippings.me/users/mlasa"
     name = "Prensa"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     url = "https://medium.com/condolasa"
     name = "Blog"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     url = "https://usinacultural.unvm.edu.ar/muestras/muestras-virtuales/las-ultimas-fronteras-del-socialismo/"
     name = "Fotografía"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     url = "https://www.youtube.com/watch?v=DnXO4vuB9bU&list=PLsNzMHw-pjVlcjAc7sN9ERPyJEvx0_th_"
     name = "TEDx"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     url = "/su/"
     name = ".SU"
-    weight = 7
+    weight = 6
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
