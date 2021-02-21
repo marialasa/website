@@ -12,7 +12,7 @@ googleAnalytics = "UA-60536877-1"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
-    highlight = false
+    highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
