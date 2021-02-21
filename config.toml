@@ -42,7 +42,7 @@ googleAnalytics = "UA-60536877-1"
     weight = 4
 
 [[menu.main]]
-    url = "https://usinacultural.unvm.edu.ar/muestras/muestras-virtuales/las-ultimas-fronteras-del-socialismo/"
+    url = "https://marialasa.github.io/website/Las%20%C3%BAltimas%20fronteras%20del%20socialismo.pdf"
     name = "Fotografía"
     weight = 5
 
